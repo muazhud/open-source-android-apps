@@ -16,6 +16,9 @@
 - Omni-Notes<br>
 <https://github.com/federicoiosue/Omni-Notes>
 
+- Open Camera<br>
+<https://sourceforge.net/p/opencamera/code/ci/master/tree/>
+
 - Plaid<br>
 <https://github.com/nickbutcher/plaid>
 
@@ -27,6 +30,9 @@
 
 - Telegram<br>
 <https://github.com/DrKLO/Telegram>
+
+- VLC for Android<br>
+<https://code.videolan.org/videolan/vlc-android>
 
 - Wikipedia<br>
 <https://github.com/wikimedia/apps-android-wikipedia>
