@@ -10,6 +10,9 @@
 - Google I/O Android App<br>
 <https://github.com/google/iosched>
 
+- Kickstater<br>
+<https://github.com/kickstarter/android-oss>
+
 - Muzei Live Wallpaper<br>
 <https://github.com/romannurik/muzei>
 
