@@ -31,6 +31,9 @@
 - Signal Private Messenger<br>
 <https://github.com/WhisperSystems/Signal-Android>
 
+- Simplenote<br>
+<https://github.com/Automattic/simplenote-android>
+
 - Telegram<br>
 <https://github.com/DrKLO/Telegram>
 
