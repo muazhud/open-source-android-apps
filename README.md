@@ -7,8 +7,14 @@
 - DuckDuckGo Search & Stories<br>
 <https://github.com/duckduckgo/android>
 
+- FastHub<br>
+<https://github.com/k0shk0sh/FastHub>
+
 - Google I/O Android App<br>
 <https://github.com/google/iosched>
+
+- Habitica for Android<br>
+<https://github.com/HabitRPG/habitica-android>
 
 - Kickstater<br>
 <https://github.com/kickstarter/android-oss>
@@ -21,6 +27,12 @@
 
 - Open Camera<br>
 <https://sourceforge.net/p/opencamera/code/ci/master/tree/>
+
+- Orgzly: Notes & To-Do Lists<br>
+<https://github.com/orgzly/orgzly-android>
+
+- Phonograph<br>
+<https://github.com/kabouzeid/Phonograph>
 
 - Plaid<br>
 <https://github.com/nickbutcher/plaid>
