@@ -1,6 +1,9 @@
 
 ## Open Source Android Apps
 
+- Brave Browser<br>
+<https://github.com/brave/browser-android-tabs>
+
 - Clean Status Bar<br>
 <https://github.com/emmaguy/clean-status-bar>
 
@@ -9,6 +12,9 @@
 
 - FastHub<br>
 <https://github.com/k0shk0sh/FastHub>
+
+- Firefox Focus<br>
+<https://github.com/mozilla-mobile/focus-android>
 
 - Google I/O Android App<br>
 <https://github.com/google/iosched>
@@ -48,6 +54,9 @@
 
 - Telegram<br>
 <https://github.com/DrKLO/Telegram>
+
+- Timber<br>
+<https://github.com/naman14/Timber>
 
 - VLC for Android<br>
 <https://code.videolan.org/videolan/vlc-android>
